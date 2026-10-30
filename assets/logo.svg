@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" role="img" aria-labelledby="t d">
+  <title id="t">ShiftLedger</title>
+  <desc id="d">ShiftLedger logo: a clock face over two ledger lines, next to the word ShiftLedger.</desc>
+  <rect width="880" height="240" rx="28" fill="#0c1220"/>
+  <rect x="1.5" y="1.5" width="877" height="237" rx="26.5" fill="none" stroke="#a3e635" stroke-opacity="0.35" stroke-width="3"/>
+  <g transform="translate(40 40) scale(.625)"><rect width="256" height="256" rx="56" fill="#0c1220" stroke="#a3e635" stroke-width="6"/><g fill="none" stroke="#a3e635" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" transform=""><circle cx="128" cy="108" r="64"/><path d="M128 68v42l28 18"/><path d="M60 204h136M60 230h88" stroke-opacity=".7"/></g></g>
+  <text x="238" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="82" font-weight="700" letter-spacing="1" fill="#a3e635">ShiftLedger</text>
+  <text x="242" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="26" fill="#9fb27a">$ know what you earned<tspan fill="#a3e635">_</tspan></text>
+</svg>

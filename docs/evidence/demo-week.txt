@@ -1,0 +1,12 @@
+# ShiftLedger demo week (default settings: Monday start, overtime after 40h at 150%)
+
+week of 2026-10-26: paid 48h 00m, regular 40h 00m, overtime 8h 00m, total $1,040.00
+  shift: regular 10h 00m = $200.00, overtime 0h 00m = $0.00
+  shift: regular 10h 00m = $200.00, overtime 0h 00m = $0.00
+  shift: regular 10h 00m = $200.00, overtime 0h 00m = $0.00
+  shift: regular 10h 00m = $200.00, overtime 0h 00m = $0.00
+  shift: regular 0h 00m = $0.00, overtime 8h 00m = $240.00
+
+by employer:
+  Corner Cafe: 4 shift(s), 40h 00m, $800.00
+  Depot: 1 shift(s), 8h 00m, $240.00

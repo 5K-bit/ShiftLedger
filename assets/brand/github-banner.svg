@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">ShiftLedger — Your shifts and pay, kept on your device</title><desc id="desc">An offline-first ledger of shifts, weekly overtime and estimated pay that stores everything in your browser. By OBEOS.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1200" height="400" rx="18" fill="#0c1220"/><rect width="1200" height="400" rx="18" fill="url(#grid)"/>
+<path d="M48 40h42" stroke="#a3e635" stroke-width="5"/>
+<text x="106" y="46" fill="#c5cddb" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">BY OBEOS</text>
+<text x="48" y="114" fill="#a3e635" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">WORKFORCE / 08</text>
+<text x="45" y="194" fill="#f3f5fa" font-family="Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">ShiftLedger</text>
+<text x="48" y="247" fill="#e0e6ef" font-family="Arial, sans-serif" font-size="25">Your shifts and pay, kept on your device</text>
+<text x="48" y="285" fill="#99a7bc" font-family="Arial, sans-serif" font-size="21">Log hours, see weekly overtime, export a CSV. Works offline. Nothing is uploaded.</text>
+<g transform="translate(900 40) scale(1.0)"><g fill="none" stroke="#a3e635" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" transform=""><circle cx="128" cy="108" r="64"/><path d="M128 68v42l28 18"/><path d="M60 204h136M60 230h88" stroke-opacity=".7"/></g></g>
+<path d="M48 331h1104" stroke="#283345"/>
+<text x="48" y="366" fill="#99a7bc" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">LOCAL SYSTEMS. CLEAR PURPOSE.</text>
+</svg>

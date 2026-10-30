@@ -1,0 +1,16 @@
+
+Running 11 tests using 1 worker
+
+  ✓   1 [chromium] › e2e/app.spec.ts:40:1 › makes no network requests beyond its own files
+  ✓   2 [chromium] › e2e/app.spec.ts:50:1 › a saved shift survives a reload (IndexedDB)
+  ✓   3 [chromium] › e2e/app.spec.ts:61:1 › bad input is explained next to the field and nothing is saved
+  ✓   4 [chromium] › e2e/app.spec.ts:72:1 › edit and delete work, and delete asks first
+  ✓   5 [chromium] › e2e/app.spec.ts:86:1 › weekly overtime is worked out and shown
+  ✓   6 [chromium] › e2e/app.spec.ts:102:1 › hostile text is displayed as text and never runs
+  ✓   7 [chromium] › e2e/app.spec.ts:110:1 › CSV export is correct and neutralises formulas
+  ✓   8 [chromium] › e2e/app.spec.ts:121:1 › a backup restores everything after the data is wiped
+  ✓   9 [chromium] › e2e/app.spec.ts:140:1 › a damaged backup is refused and changes nothing
+  ✓  10 [chromium] › e2e/app.spec.ts:149:1 › settings change the maths
+  ✓  11 [chromium] › e2e/app.spec.ts:158:1 › opens and keeps working offline once installed
+
+  11 passed
