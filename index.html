@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'; manifest-src 'self'; worker-src 'self'"
+    />
+    <meta name="theme-color" content="#0c1220" />
+    <meta name="description" content="An offline-first shift and pay ledger. Your hours stay in your browser." />
+    <title>ShiftLedger</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+  </head>
+  <body>
+    <div id="app"><p class="boot">Loading ShiftLedger…</p></div>
+    <noscript><p class="boot">ShiftLedger needs JavaScript. Nothing is sent anywhere.</p></noscript>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
