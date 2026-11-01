@@ -4,6 +4,10 @@
 
 **Log your shifts, see weekly overtime and estimated pay, export a CSV. Works offline. Nothing leaves your browser.**
 
+### [Open the live demo](https://5k-bit.github.io/ShiftLedger/)
+
+The demo is the same static build the release ships. It stores data only in your own browser; use a made-up week, not real pay records.
+
 [![CI](https://img.shields.io/github/actions/workflow/status/5K-bit/ShiftLedger/ci.yml?branch=main&style=for-the-badge&label=CI&labelColor=0f1b33&color=a3e635)](https://github.com/5K-bit/ShiftLedger/actions/workflows/ci.yml)
 ![TypeScript](https://img.shields.io/badge/typescript-strict-d9f99d?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f1b33)
 ![Runtime dependencies](https://img.shields.io/badge/runtime%20dependencies-none-a3e635?style=for-the-badge&labelColor=0f1b33)
@@ -12,7 +16,7 @@
 
 </div>
 
-[Demonstration](#demonstration) · [Quick start](#quick-start) · [Tests](#tests-and-evidence) · [Limitations](#limitations)
+[Live demo](https://5k-bit.github.io/ShiftLedger/) · [Demonstration](#demonstration) · [Quick start](#quick-start) · [Tests](#tests-and-evidence) · [Limitations](#limitations)
 
 ---
 
