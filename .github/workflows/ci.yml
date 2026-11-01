@@ -59,7 +59,7 @@ jobs:
             echo "::error title=browser tests failed::$(tail -c 3500 e2e.log | tr -d '\r' | sed ':a;N;$!ba;s/%/%25/g;s/\n/%0A/g')"
             exit 1
           }
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         if: failure()
         with:
           name: playwright-traces
